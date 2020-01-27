@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b12ceb02-da22-4f16-9b69-3e1f9e57c070" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MNIST-CNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST-CNN.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WxLe4JwQo3Ap6Q6N5gUm43rSye" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MNIST-CNN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CV-Lab-Undergraduate-Study-Group" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNIST-CNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MNIST-CNN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b12ceb02-da22-4f16-9b69-3e1f9e57c070" name="Default Changelist" comment="" />
+      <created>1580086390472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580086390472</updated>
+      <workItem from="1580086396209" duration="3860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1280" height="438" key="DebuggerActiveHint" timestamp="1580088001376">
+      <screen x="0" y="23" width="1280" height="643" />
+    </state>
+    <state width="1280" height="438" key="DebuggerActiveHint/0.23.1280.643@0.23.1280.643" timestamp="1580088001376" />
+    <state width="1238" height="188" key="GridCell.Tab.0.bottom" timestamp="1580091507883">
+      <screen x="0" y="23" width="1280" height="643" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.0.bottom/0.23.1280.643@0.23.1280.643" timestamp="1580091507883" />
+    <state width="1238" height="188" key="GridCell.Tab.0.center" timestamp="1580091507883">
+      <screen x="0" y="23" width="1280" height="643" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.0.center/0.23.1280.643@0.23.1280.643" timestamp="1580091507883" />
+    <state width="1238" height="188" key="GridCell.Tab.0.left" timestamp="1580091507882">
+      <screen x="0" y="23" width="1280" height="643" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.0.left/0.23.1280.643@0.23.1280.643" timestamp="1580091507882" />
+    <state width="1238" height="188" key="GridCell.Tab.0.right" timestamp="1580091507883">
+      <screen x="0" y="23" width="1280" height="643" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.0.right/0.23.1280.643@0.23.1280.643" timestamp="1580091507883" />
+    <state width="1238" height="188" key="GridCell.Tab.1.bottom" timestamp="1580091507885">
+      <screen x="0" y="23" width="1280" height="643" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.1.bottom/0.23.1280.643@0.23.1280.643" timestamp="1580091507885" />
+    <state width="1238" height="188" key="GridCell.Tab.1.center" timestamp="1580091507884">
+      <screen x="0" y="23" width="1280" height="643" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.1.center/0.23.1280.643@0.23.1280.643" timestamp="1580091507884" />
+    <state width="1238" height="188" key="GridCell.Tab.1.left" timestamp="1580091507884">
+      <screen x="0" y="23" width="1280" height="643" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.1.left/0.23.1280.643@0.23.1280.643" timestamp="1580091507884" />
+    <state width="1238" height="188" key="GridCell.Tab.1.right" timestamp="1580091507884">
+      <screen x="0" y="23" width="1280" height="643" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.1.right/0.23.1280.643@0.23.1280.643" timestamp="1580091507884" />
+    <state x="757" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1580086396409">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="757" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1580086396409" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CV_Lab_Undergraduate_Study_Group$MNIST_CNN.coverage" NAME="MNIST-CNN Coverage Results" MODIFIED="1580089000410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

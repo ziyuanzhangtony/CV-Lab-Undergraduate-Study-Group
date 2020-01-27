@@ -12,8 +12,14 @@ T = transforms.Compose([
     transforms.Normalize((0.1307,), (0.3081,))
 ])
 
+
+
 train_loader = torch.utils.data.DataLoader(
     datasets.MNIST('../data', train=True, download=True, transform=T),
+    batch_size=64, shuffle=True)
+
+test_loader = torch.utils.data.DataLoader(
+    datasets.MNIST('../data', train=False, download=True, transform=T),
     batch_size=64, shuffle=True)
 
 
@@ -50,17 +56,27 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 def train():
     model.train()
     losses = []
+    acces = []
     for itr, (data, target) in enumerate(train_loader):
         optimizer.zero_grad()
         output = model(data)
         loss = F.cross_entropy(output, target)
         loss.backward()
         optimizer.step()
-        print(loss.item())
+        # print(loss.item())
         losses.append(loss.item())
-        if(itr>50):
+
+        test_data, test_target = next(iter(test_loader))
+        model.eval()
+        output = model(test_data)
+        _, pred = torch.max(output, dim=1)
+        a = pred.eq(test_target)
+        acc = a.sum().item()/len(a)
+        acces.append(acc)
+
+        if(itr>200):
             break
-    plt.plot(losses)
+    plt.plot(acces)
     plt.show()
 
 
